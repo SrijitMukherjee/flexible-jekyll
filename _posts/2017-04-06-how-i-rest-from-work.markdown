@@ -37,7 +37,7 @@ In our Teachers For Tomorrow Training Program, we will give such examples more. 
 
 Counterexamples are interesting. You ask a question and it may be false. The question has a solution in negative. Counterexamples are even more interesting. They are tricky to find.
 
-Suppose, you are understanding Pythagorean Triplets i.e. Positive Integer Solutions to <iframe>http://mathurl.com/y2f3kpgg</iframe>. Now you take examples to understand the solutions better.
+Suppose, you are understanding Pythagorean Triplets i.e. Positive Integer Solutions to <iframe>http://mathurl.com/y2f3kpgg<\iframe>. Now you take examples to understand the solutions better.
 
 You get (3,4,5) as a solution. You try to find the next where 5 is increased a bit. You get (6,8,10).
 
