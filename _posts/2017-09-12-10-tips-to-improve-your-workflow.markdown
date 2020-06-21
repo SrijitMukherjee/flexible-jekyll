@@ -17,8 +17,7 @@ tags: [Productivity, Workflow] # add tag
 
 # Latex 
 
-- Inline Latex: \\( \pi^{e} < {e}^{\pi} \\)
-\\[ \pi^{e} < {e}^{\pi} \\]
+- Inline Latex:$\theta_t=(\theta_t^S, \theta_t^I, \theta_t^R)^T$
 
 
 
