@@ -8,8 +8,6 @@ img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
-
-    <script src="/js/mathjax-config.js"></script>
     
 # Normal Text
 
