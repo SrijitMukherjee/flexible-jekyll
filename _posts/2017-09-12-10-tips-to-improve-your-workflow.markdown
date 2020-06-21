@@ -17,7 +17,8 @@ tags: [Productivity, Workflow] # add tag
 
 # Latex 
 
-- Inline Latex:$\theta_t=(\theta_t^S, \theta_t^I, \theta_t^R)^T$
+- Inline Latex: $ x^2$ 
+- \(x^2\)
 
 # Resources
 
