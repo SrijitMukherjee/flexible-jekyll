@@ -17,8 +17,7 @@ tags: [Productivity, Workflow] # add tag
 
 # Latex 
 
-- Inline Latex: $ x^2 $ 
-- \(x^2\)
+- Inline Latex: $x^2$ 
 
 # Resources
 
