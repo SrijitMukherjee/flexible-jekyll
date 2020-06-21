@@ -18,7 +18,7 @@ tags: [Productivity, Workflow] # add tag
 # Latex 
 
 - Inline Latex: $x^2$ 
-- ![x^2](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+- <a href="https://www.codecogs.com/eqnedit.php?latex=x^2&space;&plus;&space;y^2&space;=&space;7g^2&space;-&space;e^{z-&space;e^y}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^2&space;&plus;&space;y^2&space;=&space;7g^2&space;-&space;e^{z-&space;e^y}" title="x^2 + y^2 = 7g^2 - e^{z- e^y}" /></a>
 
 
 # Resources
