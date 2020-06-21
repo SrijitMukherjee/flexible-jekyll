@@ -19,6 +19,11 @@ tags: [Productivity, Workflow] # add tag
 
 - Inline Latex:$\theta_t=(\theta_t^S, \theta_t^I, \theta_t^R)^T$
 
+# Resources
+
+ - [Github Pages](https://youtu.be/1aXk2RViq3c) Tutorial
+ - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/) is helpful for me.
+
 
 
 
