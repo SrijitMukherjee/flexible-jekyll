@@ -1,12 +1,27 @@
 ---
 layout: post
-title: 10 Tips To Improve Your Workflow
+title: My First Github Post
 date: 2017-09-12 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+# Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
+
+# Normal Text
+
+- Here you can write the normal text.
+- [This link](https://daringfireball.net/projects/markdown/) has a tutorial on Markdown.
+
+
+# Latex 
+
+- Inline Latex: \\( \pi^{e} < {e}^{\pi} \\)
+\\[ \pi^{e} < {e}^{\pi} \\]
+
+
+
 
 Asymmetrical portland enamel pin af heirloom ramps authentic thundercats. Synth truffaut schlitz aesthetic, palo santo chambray # Dillinger
 
