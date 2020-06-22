@@ -7,5 +7,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ![b.png]({{site.baseurl}}/_posts/b.png)
 
+![keys2.jpg]({{site.baseurl}}/_posts/keys2.jpg)
+
+
 
 
